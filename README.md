@@ -9,4 +9,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ## 🌟 Dự án nổi bật
-- [Generator Ký Tự Đặc Biệt](https://ki-tu-dac-biet-2.web.app/) - Công cụ tạo chữ kiểu đẹp
+- [Cenerator Ký Tự Đặc Biệt](https://ki-tu-dac-biet-2.web.app/) - Công cụ tạo chữ kiểu đẹp
