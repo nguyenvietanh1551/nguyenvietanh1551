@@ -1,4 +1,4 @@
-# 👋 Xin chào, Tôi là [Nguyễn Việt Anh] 
+# 👋 Xin chào, Tôi là [ Nguyễn Việt Anh ] 
 
 💻 Lập trình viên backend
 
