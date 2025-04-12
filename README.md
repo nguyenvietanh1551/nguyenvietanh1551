@@ -1,6 +1,6 @@
 # 👋 Xin chào, Tôi là [ Nguyễn Việt Anh ] 
 
-💻 Lập trình viên backend
+💻 Lập trình viên 
 
 ## 🛠 Công nghệ & Kỹ năng
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
